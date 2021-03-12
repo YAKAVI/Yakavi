@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**YAKAVI/Yakavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # This loop will go on until the budget is integer or float 
 while True: 
 	try: 
